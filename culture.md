@@ -20,7 +20,7 @@ Ideas cannot spread in an organization where there is no knowledge goes on outsi
 
 Our mission is to create structures that arm the individual with the right framework that empowers them to make their own decisions on how they best contribute to achieve our collective goals.
 
-We're a team pushing a radical idea: the future of the web depends on a healthier ecosystem of tools and methodologies. Therefore, we approach every line of code, support ticket, meet-up talk, sales call, and piece of documentation with a high bar for quality. We’re driven by passion and a firm commitment to do right by our team and our community. 
+We're a team pushing a radical idea: the future of the web depends on a healthier ecosystem of tools and methodologies. Therefore, we approach every line of code, support ticket, meet-up talk, sales call, and piece of documentation with a high bar for quality. We're driven by passion and a firm commitment to do right by our team and our community. 
 
 
 ## The Best Idea Can Come From Anywhere
